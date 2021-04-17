@@ -1,6 +1,6 @@
 # PerDiem
 
-## *PerDiem*
+#### *PerDiem*
 Adj.
 Definition: Daily.
 
