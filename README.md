@@ -1,6 +1,6 @@
 # PerDiem
 
-##*PerDiem*
+## *PerDiem*
 Adj.
 Definition: Daily.
 
@@ -13,8 +13,11 @@ PerDiem is a To-Do List utility application, developed in Java for the Android o
 PerDiem's functionality includes a date/time display, task creation window, and RecyclerView task list that updates on user interaction.
 Tasks can be:
 >Added
+>
 >Edited
+>
 >Deleted
+>
 >Marked as Done (Removed)
 
 Use PerDiem to organize your day!
