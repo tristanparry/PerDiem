@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6F3AE1</color>
+    <color name="colorPrimaryDark">#4B24A6</color>
+    <color name="colorCardBackground">#DA5926D8</color>
+    <color name="checkboxChecked">#EEEEEE</color>
+    <color name="checkboxUnchecked">#00EEEEEE</color>
+    <color name="colorAccent">#37029C</color>
+    <color name="colorTransparent">#00EEEEEE</color>
+
+    <color name="colorWhite">#ffffff</color> <!-- Global white -->
+    <color name="colorBackground">#eeeeee</color> <!-- Global background shade -->
+    <color name="colorBlack">#000000</color> <!-- Global black -->
+</resources>
