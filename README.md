@@ -1,4 +1,4 @@
-![monochrome_icon](https://user-images.githubusercontent.com/64918749/126924908-1eb08aca-c060-419b-a381-f4cb68dda5da.png)
+![ic_launcher-playstore](https://user-images.githubusercontent.com/64918749/126924934-183402a0-9d06-4de2-9c0d-e090824ac60c.png)
 # PerDiem
 
 #### *PerDiem*
